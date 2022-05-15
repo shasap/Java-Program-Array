@@ -14,7 +14,7 @@ public class Q2SortArrayValuesInAscendingOrder {
         System.out.println(Arrays.toString (arr));
         System.out.println();
 
-        //Use inbuilt method to sort array in ascending order
+        //Use inbuilt method to sort array in ascending order.....
         Arrays.sort(arr);
 
          /*Use inbuilt method Arrays.toString(); and
